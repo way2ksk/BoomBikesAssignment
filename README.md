@@ -38,7 +38,7 @@
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@way2ksk] - feel free to contact me!
 
 
 <!-- Optional -->
